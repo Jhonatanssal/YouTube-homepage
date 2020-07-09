@@ -65,3 +65,18 @@ aside {
 #black_square {
   margin-right: 40px;
 }
+.info {
+    border-bottom: 2px solid black;
+}
+#p1 {
+    float: left;
+    margin-left: 30px;
+}
+#p2 {
+    float: right;
+    opacity: 60%;
+}
+#p2 a {
+    text-decoration: none;
+    color: #444444;
+}
