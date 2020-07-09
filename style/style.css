@@ -1,14 +1,22 @@
 body {
-
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11px;
 }
 nav {
     display: flex;
+    position: fixed;
     flex-direction: row;
     align-items: center;
+    height: 60px;
+    width: 100vw;
+    margin-top: -10px;
+    background-color: white;
+    margin-bottom: 50px;
 }
 .sectiondiv {
     float: left; width: auto;
-
+    width: 950px;
+    margin-top: 50px;
 }
 
 .aside1 {
@@ -52,14 +60,16 @@ nav {
     border-radius: 50%;
     width: 40px;
     height: 40px;
-    margin-right: 20px;
+    margin-right: 40px;
 
 }
 #video {
     margin: 30px 0 0 25px;
 }
-#bell {
-
+#video-info {
+    width: 100%;
+}
+#bell {     
   margin-left: 0px;
   margin-right: 40px;
 }
@@ -70,11 +80,39 @@ nav {
     float: left;
     margin-left: 30px;
 }
+#center {
+    float: center;
+}
 #p2 {
     float: right;
     opacity: 60%;
+    width: 700px;
 }
 #p2 a {
     text-decoration: none;
     color: #444444;
+}
+#p2 p {
+    text-align: end;
+}
+#channel-info {
+    display: flex;
+    margin: 50px auto auto 30px;
+    width: 100%;
+    border-top: 2px solid rgb(158, 153, 153);
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+#mic-logo {
+    border-radius: 50%;
+}
+#subscribe {
+    float: right;
+    margin-left: 670px;
+    margin-top: 15px;
+}
+#subscribe img {
+    width: 100px;
+    height: 50px;
 }
