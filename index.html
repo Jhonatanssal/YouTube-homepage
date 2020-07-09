@@ -3,8 +3,6 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/fontawesome.min.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/js/fontawesome.min.js">
         <link rel="stylesheet" href="style/style.css" type="text/css">
         <title>YouTube</title>
     </head>
@@ -12,17 +10,19 @@
         <!--Start of navigation bar-->
         <nav>
             <a href="#"><img id="bars" class="img" src="img/img_bar.png" alt="image bar"></a>
-            <a href="#"><img id="logo" src="https://archive.vn/Bss88/51a3832e6af6792add876216da444db23a4bea96.png" alt="YouTube"></a>
-            <input id="search" type="text" placeholder="Search">
+            <a href="#"><img id="logo" class="img" src="img/youtube_logo.png" alt="YouTube"></a>
+            <input id="search" type="text" placeholder="Search" class="img">
             <button id="loop"><img id="img1" src="img/img_loop.png" alt="image loop"></button>
             <a href="#"><img id="upload" class="img" src="img/img_arrow.png" alt="image arrow"></a>
+            <a href="#"><img id="black_square" class="img" src="img/black_square.png" alt="square image"></a>
+            <a href="#"><img id="bell" class="img" src="img/bell.png" alt="bell image"></a>
             <a href="#"><img id="profile" src="img/images.jpg" alt=""></a>
         </nav>
         <!--End of navigation bar-->
 
         <!--Start of main page-->
         <section>
-            <div>
+            <div class="sectiondiv">>
                 <iframe id="video" width="950" height="520" src="https://www.youtube.com/embed/f9ip1iSAptQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </section>
@@ -31,6 +31,12 @@
             <div id="channel-info"></div>
             <div id="comments"></div>
         </article>
-        <aside id="thumbnails">Thumbnails</aside>
+        <aside id="thumbnails">
+          <iframe id="video" width="300" height="200" src="https://www.youtube.com/embed/f9ip1iSAptQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe id="video" width="300" height="200" src="https://www.youtube.com/embed/f9ip1iSAptQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe id="video" width="300" height="200" src="https://www.youtube.com/embed/f9ip1iSAptQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe id="video" width="300" height="200" src="https://www.youtube.com/embed/f9ip1iSAptQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        </aside>
     </body>
 </html>
