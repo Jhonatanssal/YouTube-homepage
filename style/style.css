@@ -1,0 +1,46 @@
+body {
+
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#bars {
+    margin: 15px;
+}
+#logo {
+    margin-left: 15px;
+    margin-right: 150px;
+}
+#search {
+    height: 25px;
+    font-size: 18px;
+    width: 500px;
+}
+#loop {
+    height: 33px;
+    width: 80px;
+    margin: -2px;
+    margin-right: 300px;
+}
+#img1 {
+    height: 20px;
+    width: 20px;
+}
+.img {
+    width: 20px;
+    height: 20px;
+}
+#upload {
+    margin-right: 100px ;
+}
+
+#profile {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+#video {
+    margin: 30px 0 0 25px;
+}
