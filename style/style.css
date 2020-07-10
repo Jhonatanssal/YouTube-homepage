@@ -25,9 +25,9 @@ nav {
 }
 .right-div{
     float: right;
-    margin-left: 10px;
+    margin-left: 5px;
     width: 430px;
-    margin-right: 5px;
+    margin-right: 10px;
 }
 #up-next {
     font-size: 16px;
@@ -40,14 +40,28 @@ nav {
     float: left;
     width: 420px;
     text-align: left;
-    padding-right: 20px;
+    padding-right: 10px;
+    /*border: 2px solid green;*/
 }
+.right {
+  float: left;
+}
+.left {
+  float: left;
+}
+.p1 {
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: lighter;
+}
+
 .t {
+    margin-top: -4px;
     float: right;
     text-align: start;
     font-weight: bold;
     color: black;
-    margin-left: 15px;
+    /*margin-left: 15px;*/
     font-size: 15px;
 }
 
