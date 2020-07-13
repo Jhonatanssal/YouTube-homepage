@@ -89,6 +89,7 @@ nav {
 /*Begining of the video section*/
 
 .left-div{
+  float: left;
   margin-right: 20px;
   margin-left: 20px;
   width: 850px;
@@ -177,6 +178,7 @@ nav {
 /*Begining of the Thumbnails section*/
 
 .right-div{
+  float: left;
     margin: auto auto auto -50px;
     width: 400px;
     margin-right: 10px;
