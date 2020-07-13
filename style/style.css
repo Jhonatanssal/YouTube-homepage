@@ -178,8 +178,8 @@ nav {
 /*Begining of the Thumbnails section*/
 
 .right-div{
-  float: left;
-    margin: auto auto auto -50px;
+    float: left;
+    margin: auto auto auto auto;
     width: 400px;
     margin-right: 10px;
     margin-top: -20px;
