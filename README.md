@@ -24,11 +24,11 @@ Feel free to check the [issues page](issues/).
 If you like our work, please give us a :+1:
 
 # Acknowledgments
-Microverse
-W3schools
-Freecodecamp
-Developer.mozilla
-Learnshayhowe
-Odin project
+- Microverse
+- W3schools
+- Freecodecamp
+- Developer.mozilla
+- Learnshayhowe
+- Odin project
 # License
 no license
