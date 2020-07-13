@@ -84,6 +84,7 @@ nav {
 #main {
     padding-top: 80px;
     display: flex;
+    justify-content: center;
 }
 
 /*Begining of the video section*/
