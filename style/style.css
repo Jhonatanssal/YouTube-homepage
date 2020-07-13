@@ -12,7 +12,7 @@
     background-color: #F9F9F9;
     margin-left: 10px;
     margin-right:10px;
-}*/
+}*/  
 
 /*Begining of the nav section*/
 
@@ -83,12 +83,12 @@ nav {
 
 #main {
     padding-top: 80px;
+    display: flex;
 }
 
 /*Begining of the video section*/
 
 .left-div{
-  float: left;
   margin-right: 20px;
   margin-left: 20px;
   width: 850px;
@@ -177,7 +177,6 @@ nav {
 /*Begining of the Thumbnails section*/
 
 .right-div{
-    float: right;
     margin: auto auto auto -50px;
     width: 400px;
     margin-right: 10px;
