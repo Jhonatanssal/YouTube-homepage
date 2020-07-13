@@ -151,7 +151,7 @@ nav {
     padding-top: 7%;
     padding-bottom: 7%;
 }
-#button {
+button {
     background-color: red;
     color: white;
     border-radius: 5px;
@@ -159,7 +159,7 @@ nav {
     width: 90px;
     height: 40px;
 }
-#button p {
+button p {
     color: white;
 }
 #mic-logo {
@@ -168,10 +168,6 @@ nav {
 #subscribe {
     float: right;
     margin-top: 15px;
-}
-#subscribe img {
-    width: 100px;
-    height: 50px;
 }
 .img-comment1{
   border-radius: 50%;
