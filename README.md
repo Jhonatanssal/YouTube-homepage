@@ -9,7 +9,7 @@ Building an HTML document that matches the appearance of YouTube .
 </p>
 
 # Live Demo
-[Live Demo](https://jssarrazolaa.github.io/)
+[Click here for Live Demo](https://jssarrazolaa.github.io/YouTube-homepage/)
 # Getting Started
 # Authors
 - Ositaadimma Paschal  Github: @ositaadimma
