@@ -4,7 +4,7 @@ Building an HTML document that matches the appearance of YouTube .
 - HTML
 - CSS
 # Original Page
-[Source](/img/project-screenshot.png)
+<img src="img/project-screenshot.png" alt="Original page>
 # Live Demo
 [Live Demo](https://jssarrazolaa.github.io/)
 # Getting Started
