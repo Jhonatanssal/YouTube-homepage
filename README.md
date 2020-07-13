@@ -13,6 +13,7 @@ Building an HTML and css page that matches the appearance of this youtube page h
 # Live Demo
 [Click here for Live Demo](https://raw.githack.com/jssarrazolaa/YouTube-homepage/youtube-project/index.html)
 # Getting Started
+
 # Authors
 - Ositaadimma Paschal  Github: @ositaadimma
 - Jhonatan Sarrazola Github: @jssarrazolaa
@@ -20,6 +21,14 @@ Building an HTML and css page that matches the appearance of this youtube page h
 Contributions, issues and feature requests are welcome!
 Feel free to check the [issues page](issues/).
 # Show your support
+If you like our work, please give us a :+1:
+
 # Acknowledgments
+Microverse
+W3schools
+Freecodecamp
+Developer.mozilla
+Learnshayhowe
+Odin project
 # License
 no license

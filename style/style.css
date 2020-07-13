@@ -26,16 +26,16 @@ nav {
     margin-bottom: 50px;
     justify-content: center;
 }
-#bars {
+.bars {
     margin: 15px;
 }
-#logo {
+.logo {
     margin-left: 15px;
     margin-right: 190px;
     width: 80px;
     height: 30px;
 }
-#search {
+.search {
     height: 25px;
     font-size: 18px;
     width: 650px;
@@ -60,28 +60,28 @@ nav {
     height: 15px;
     opacity: 50%;
 }
-#upload {
+.upload {
     margin-right: 50px ;
 }
 
-#profile {
+.profile {
     justify-self: end;
     border-radius: 50%;
     width: 40px;
     height: 40px;
     margin-right: 40px;
 }
-#bell {
+.bell {
   margin-left: 0px;
   margin-right: 40px;
 }
-#black_square {
+.black_square {
   margin-right: 40px;
 }
 
 /*End of nav section*/
 
-#main {
+.main {
     padding-top: 80px;
     display: flex;
     justify-content: center;
@@ -98,27 +98,27 @@ nav {
 .video-info {
     width: 880px;
 }
-#p1 {
+.p1 {
     float: left;
     margin-left: 5px;
 }
-#center {
+.center {
     float: center;
 }
-#p2 {
+.p2 {
     float: right;
     opacity: 55%;
     width: 300px;
     text-align: end;
 }
-#p2 a {
+.p2 a {
     text-decoration: none;
     color: #444444;
 }
-#p2 p {
+.p2 p {
     text-align: end;
 }
-#channel-info {
+.channel-info {
     display: flex;
     margin: 50px auto auto 5px;
     width: 900px;
@@ -129,7 +129,7 @@ nav {
     font-weight: bold;
     font-size: 15px;
 }
-#text {
+.text {
     font-size: 16px;
     padding-bottom: 30px;
     text-align: left;
@@ -137,7 +137,7 @@ nav {
     border-bottom: 1px solid rgb(158, 153, 153);
     width: 840px;
 }
-#text a {
+.text a {
     text-decoration: none;
     color: gray;
 }
@@ -202,7 +202,7 @@ button p {
     margin-right: 10px;
     margin-top: -20px;
 }
-#up-next {
+.up-next {
     font-size: 16px;
     font-weight: bold;
     border-bottom: 1px solid rgb(158, 153, 153);
