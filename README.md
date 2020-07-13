@@ -7,6 +7,7 @@ Building an HTML document that matches the appearance of YouTube .
 <p align="center">
   <img src="img/project-screenshot.png" width="350" title="YouTube screenshot">
 </p>
+
 # Live Demo
 [Live Demo](https://jssarrazolaa.github.io/)
 # Getting Started
