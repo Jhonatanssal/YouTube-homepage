@@ -179,7 +179,7 @@ nav {
 
 .right-div{
     float: left;
-    margin: auto auto auto auto;
+    margin: auto auto auto 30px;
     width: 400px;
     margin-right: 10px;
     margin-top: -20px;
